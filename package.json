@@ -5,6 +5,9 @@
   "repository": "git@github.com:miqueiasousa/heat-api.git",
   "author": "Miqueias Sousa <miqueiassousa80@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev src/index.ts"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
