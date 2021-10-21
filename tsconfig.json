@@ -5,6 +5,7 @@
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
     "strict": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "typeRoots": ["./src/@types"]
   }
 }
